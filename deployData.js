@@ -10,6 +10,6 @@ const studentName = 'Azhar Fauzan Nugroho';
 
 const studentId = 'FE4249027'; 
 
-const NetlifyDeployUrl = ''; // TODO: replace this
+const NetlifyDeployUrl = 'https://azhar-finalproj-html.netlify.app/client'; 
 
 module.exports = { studentName, studentId, NetlifyDeployUrl };
